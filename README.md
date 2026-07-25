@@ -11,6 +11,8 @@
 
 Tourists and locals discover local artisan shops, earn points, unlock scratch-card rewards, and book live cultural experiences—all while shopkeepers track real-time foot traffic and festival organizers manage seasonal themes.
 
+**NOTE on Scope: While this implementation uses Central Market in Kuala Lumpur as its primary case study and testbed, the platform framework is modular and scalable. The underlying mechanics, quest engines, and vendor integration models are designed to be easily adapted to traditional markets, heritage districts, and cultural bazaars worldwide.
+
 ---
 
 ## ✨ Key Features & User Roles
